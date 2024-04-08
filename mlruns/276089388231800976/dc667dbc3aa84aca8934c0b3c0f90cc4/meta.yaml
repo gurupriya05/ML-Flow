@@ -1,0 +1,15 @@
+artifact_uri: /home/gurupriya/ML-Flow/mlruns/276089388231800976/dc667dbc3aa84aca8934c0b3c0f90cc4/artifacts
+end_time: 1712564834940
+entry_point_name: ''
+experiment_id: '276089388231800976'
+lifecycle_stage: active
+run_id: dc667dbc3aa84aca8934c0b3c0f90cc4
+run_name: skillful-shark-983
+run_uuid: dc667dbc3aa84aca8934c0b3c0f90cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712564833019
+status: 3
+tags: []
+user_id: gurupriya
